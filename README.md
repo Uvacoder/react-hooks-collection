@@ -6,7 +6,7 @@
 <p align="center" style="font-size: 1.2rem;">A Cheatsheet with live editable examples 💪</p>
 
 [https://react-hooks-cheatsheet.com](https://react-hooks-cheatsheet.com)
---
+
 - A one-stop reference for the React hooks APIs
 - Doesn't replace the official docs. 
 - However, it contains actual code examples each mimicking all APIs of hooks. 
