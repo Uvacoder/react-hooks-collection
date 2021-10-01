@@ -20,8 +20,8 @@
     "scripts": {
         "start": "docz dev",
         "build": "docz build && cp .docz/dist/index.html .docz/dist/200.html",
-        "build:deploy": "yarn run build && npx surge .docz/dist --domain https://react-hooks-cheatsheet.com",
-        "deploy": "npx surge .docz/dist --domain https://react-hooks-cheatsheet.com",
+        "build:deploy": "yarn run build && npx surge .docz/dist",
+        "deploy": "npx surge .docz/dist",
         "test": "npm test"
     },
     "author": "Ohans Emmanuel",
