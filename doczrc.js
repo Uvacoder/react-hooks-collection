@@ -1,7 +1,7 @@
 export default {
   title: 'Hooks Cheatsheet',
   description: 'Cheatsheet for React Hooks',
-  repository: 'https://github.com/uvacoder/react-hooks-cheatsheet',
+  repository: 'https://github.com/uvacoder/react-hooks-collection',
   indexHtml: 'src/index.html',
   menu: [
     'Home',
@@ -19,7 +19,7 @@ export default {
   ordering: 'ascending',
   propsParser: false,
   themeConfig: {
-    repository: 'https://github.com/uvacoder/react-hooks-cheatsheet',
+    repository: 'https://github.com/uvacoder/react-hooks-collection',
     colors: {
       primary: '#bd4932',
       link: '#bd4932'
