@@ -1,6 +1,6 @@
 export default {
-  title: 'Hooks Cheatsheet',
-  description: 'Cheatsheet for React Hooks',
+  title: 'Hooks Collection',
+  description: 'Collection of React Hooks',
   repository: 'https://github.com/uvacoder/react-hooks-collection',
   indexHtml: 'src/index.html',
   menu: [
