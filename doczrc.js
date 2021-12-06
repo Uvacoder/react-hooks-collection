@@ -1,5 +1,5 @@
 export default {
-  title: 'Hooks Collection',
+  title: 'React Hooks Collection',
   description: 'Collection of React Hooks',
   repository: 'https://github.com/uvacoder/react-hooks-collection',
   indexHtml: 'src/index.html',
